@@ -18,7 +18,7 @@ public class Main {
 
         /* SINGLE LIBROS*/
 
-        Libro libro1 = new Libro("Harry Potter y la piedra filosofal", 123, "Alguien");
+        Libro libro1 = new Libro("El señor de los anillos", 123, "JRR tolkien");
         Libro libro2 = new Libro("Lord of the rings", 12, "Guillote");
         Libro libro3 = new Libro("El libro gordo de petete", 34, "Alguien2");
 
