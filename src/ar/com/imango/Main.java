@@ -87,6 +87,10 @@ public class Main {
 
         System.out.println("La UI paracuando");
 
+        System.out.println("La hacemos en wicket?");
+        System.out.println("Comer Pul po");
+        System.out.println("Commit -> Pull -> Push");
+
 
 
 
